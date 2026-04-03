@@ -8,4 +8,6 @@ public interface IWordleView {
 	void setColorFondo(int indice, Color color);
 
 	//messi
+	//cristiano
+	//neymar
 }
